@@ -1,13 +1,19 @@
 body{
     background-color:rgb(215, 240, 250);
+
     
 }
 
 .container{
     margin-top: 25px text-align-center;
     padding: 100px auto;
-   
+    color: brown;
    
 }
+ .navbar{
+     display:flex;
+ }
 
+
+ 
  
